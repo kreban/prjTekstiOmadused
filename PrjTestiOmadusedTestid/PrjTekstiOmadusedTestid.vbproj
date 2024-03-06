@@ -78,7 +78,7 @@
     <Import Include="Microsoft.VisualStudio.TestTools.UnitTesting" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CTekstiOmadusedTest.vb" />
+    <Compile Include="CTekstiOmadusedTestid.vb" />
     <Compile Include="CTekstiPoorajaTest.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">

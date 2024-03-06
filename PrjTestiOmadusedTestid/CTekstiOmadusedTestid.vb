@@ -1,7 +1,7 @@
 ﻿Imports System.Text
 Imports Microsoft.VisualStudio.TestTools.UnitTesting
 
-<TestClass()> Public Class CTekstiOmadusedTest
+<TestClass()> Public Class CTekstiOmadusedTestid
 
     <DataRow("aba", 2)>
     <DataRow("pxklLK", 0)>
